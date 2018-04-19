@@ -1,11 +1,35 @@
-h3 {
-  color: #f7325e;
-  font-family: fantasy;
+.pdf {
+  color: purple;
 }
-.tropical {
-  color: #7dc410;
 }
-.popular {
+h4.popular {
   font-size: italic;
   color: blue;
+}
+.kdf{
+  color: red;
+  font: italic;
+}
+.ttif {
+  float:right;
+  border-top:2px solid red;
+  border-left:2px solid yellow;
+  border-right:2px solid purple;
+  border-bottom:2px solid blue;
+  padding: 6px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: skyblue
+}
+.peet {
+  color: blue;
+}
+body {
+  font-family: sans-serif;
+}
+.lit p {
+  color: blue;
+}
+.ppit p {
+  color: green;
 }
